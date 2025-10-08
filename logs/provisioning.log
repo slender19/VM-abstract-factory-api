@@ -1,0 +1,18 @@
+2025-10-08 11:37:54 [INFO] Solicitud de aprovisionamiento recibida para proveedor: aws
+2025-10-08 11:37:54 [INFO] Fábrica seleccionada: aws
+2025-10-08 11:37:54 [INFO] Recursos aprovisionados correctamente para aws.
+2025-10-08 11:38:39 [INFO] Solicitud de aprovisionamiento recibida para proveedor: digitalocean
+2025-10-08 11:38:39 [ERROR] Proveedor desconocido: digitalocean
+2025-10-08 11:38:39 [ERROR] Error en aprovisionamiento (digitalocean): Proveedor no soportado: digitalocean
+2025-10-08 11:38:53 [INFO] Solicitud de aprovisionamiento recibida para proveedor: aws
+2025-10-08 11:38:53 [INFO] Fábrica seleccionada: aws
+2025-10-08 11:38:53 [INFO] Recursos aprovisionados correctamente para aws.
+2025-10-08 11:39:13 [INFO] Solicitud de aprovisionamiento recibida para proveedor: aws
+2025-10-08 11:39:13 [INFO] Fábrica seleccionada: aws
+2025-10-08 11:39:13 [INFO] Recursos aprovisionados correctamente para aws.
+2025-10-08 11:41:48 [INFO] Solicitud de aprovisionamiento recibida para proveedor: aws
+2025-10-08 11:45:24 [INFO] Solicitud de aprovisionamiento recibida para proveedor: aws
+2025-10-08 11:45:24 [INFO] Solicitud de aprovisionamiento recibida para proveedor: aws
+2025-10-08 11:45:24 [INFO] Fábrica seleccionada: aws
+2025-10-08 11:45:24 [INFO] Fábrica seleccionada: aws
+2025-10-08 11:45:24 [ERROR] Inconsistencia detectada: parámetros de VM no pertenecen a aws
